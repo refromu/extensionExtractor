@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Extention_Extractor.DialogueBox" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Extention_Extractor.DialogueBox.SetTextCallBack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DialogueBox.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Extention_Extractor.DialogueBox.RefreashLabelDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DialogueBox.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>hgIAAAAmAiAAECgAhICAAAACEABAQBAAABAAEgQAAIE=</HashCode>
+      <FileName>DialogueBox.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extention_Extractor.About" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAECAAAAAAAACAAAACAAAAQgABAAAAAAAAAAA=</HashCode>
+      <FileName>About.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extention_Extractor.EventsandFunctions" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQABAAAAAQhAIAAAAAAAAgQAEBCCAg=</HashCode>
+      <FileName>EventsandFunctions.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extention_Extractor.Title_Window" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAACAAADAgAACAQAACAAAAAAAAAQAgAACAAAA=</HashCode>
+      <FileName>Extention Extractor 1.1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extention_Extractor.My.MyApplication" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extention_Extractor.My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Extention_Extractor.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Extention_Extractor.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAIAAAAAASABJAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
